@@ -7,8 +7,23 @@ This project involves modeling a dataset with information from classic models th
 ## 📂 Dataset
 - **Source:** Data based on Classic Models’ sales information.
 - **Key variables:** Sales Value, Cost of Sales, Net profit, Sales by Country. 
-- **Processing:** Modeling in MySQL, connecting data from MySQL to Power BI, and creating Visual Dashboard for Analysis. 
--**Access dataset:** [Download dataset](Sales+Data+ClassicModels.csv)  
+- **Processing:** Modeling in MySQL, connecting data from MySQL to Power BI, and creating a Visual Dashboard for Analysis.
+  
+![ Access dataset]( https://github.com/OscarGomez-Data/Project-Data-Analysis-Classic-Models-Power-BI-Dashboard/blob/main/Sales%2BData%2BClassicModels.xlsx)  
+
+## ❓ Main Questions
+-**In MySQL**:
+-Overview of sales breakdown by product, country, and city.
+-Review of sales value, cost of sales, and net profit.
+-Sales Overview by country.
+-Products purchased together.
+-Customers` Sales Value by Credit Limit.
+-Sales Value Change from Previous Order.
+-Office Sales by Customer Country.
+-Customers Affected by Late Shipping.
+-**In Power BI**:
+-Interactive Visualization.
+
 
 ## 🛠️ Methodology
 - **Tools used:** Excel, MySQL, and Power BI.
@@ -16,7 +31,7 @@ This project involves modeling a dataset with information from classic models th
 - Step 1: Cleaning the data.
 - Step 2: Work on the database on MySQL to create a View with the main information. 
 - Step 3: Connect the MySQL View Power BI. 
-- Step 4: Create interactive dashboard on Power BI with graphs and main metrics.
+- Step 4: Creating an interactive dashboard on Power BI with graphs and main metrics.
 -Step 5: Interpretation of results: exploration and visualization.
 
 ## 📊 Key Results
@@ -25,13 +40,16 @@ This project involves modeling a dataset with information from classic models th
 - xxx  
 
 ## 📈 Visualization
-Here you can reference the dashboards:  
+-Here you can reference the script SQL:  
 
-[Dashboard 1](Sales Overview 1.png)  
+[Ver script de extracción SQL](SQL_Data_Extraction.sql)
 
-[Dashboard 2]( Sales Overview 2.png)  
+-Here you can reference the dashboards:  
 
+![Dashboard 1](https://github.com/OscarGomez-Data/Project-Data-Analysis-Classic-Models-Power-BI-Dashboard/blob/main/Sales%20Overview%201.png) 
 
+![Dashboard 2](https://github.com/OscarGomez-Data/Project-Data-Analysis-Classic-Models-Power-BI-Dashboard/blob/main/Sales%20Overview%202.png)  
+ 
 
 ## ✅ Conclusions and Recommendations
 - xxxx  
