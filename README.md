@@ -32,7 +32,7 @@ This project involves modeling a dataset with information from classic models th
 - Step 2: Work on the database on MySQL to create a View with the main information. 
 - Step 3: Connect the MySQL View Power BI. 
 - Step 4: Creating an interactive dashboard on Power BI with graphs and main metrics.
--Step 5: Interpretation of results: exploration and visualization.
+- Step 5: Interpretation of results: exploration and visualization.
 
 ## 📊 Key Results
 - xxx  
@@ -45,6 +45,11 @@ This project involves modeling a dataset with information from classic models th
 [Ver script de extracción SQL](SQL_Data_Extraction.sql)
 
 -Here you can reference the dashboards:  
+
+[Dashboard 1](Sales%20Overview%201.png)  
+
+[Dashboard 2](Sales%20Overview%202.png)  
+
 
 ![Dashboard 1](https://github.com/OscarGomez-Data/Project-Data-Analysis-Classic-Models-Power-BI-Dashboard/blob/main/Sales%20Overview%201.png) 
 
