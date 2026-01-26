@@ -61,7 +61,7 @@ Conclusion: A higher credit limit does not mean higher sales value.
 
 -Office Sales by Customer Country: we can see in the image below which country is the best buyer for each office sales. For example, the sale office in France receives the higher sales from Spain. 
 
-![Office Sales by Country](https://github.com/OscarGomez-Data/Project-Data-Analysis-Classic-Models-Power-BI-Dashboard/blob/main/Sales%20Overview%201.png) 
+![Office Sales by Country]( Sales_by_Office.png)  
   
 
 ## 📈 Visualization
